@@ -1,0 +1,14 @@
+﻿  Graphics Engine.cpp
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(156,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(302,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(302,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(301,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(301,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(300,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(300,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(372,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(373,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(431,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(432,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Graphics Engine\Graphics Engine\Graphics Engine\Graphics Engine.cpp(754): warning C4715: 'Engine3D::triangleClip': not all control paths return a value
+  Graphics Engine.vcxproj -> D:\Graphics Engine\Graphics Engine\Debug\Graphics Engine.exe
